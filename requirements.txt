@@ -1,4 +1,0 @@
-Flask
-pyspark
-pandas
-flask-cors

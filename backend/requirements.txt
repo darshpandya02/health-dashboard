@@ -1,0 +1,10 @@
+Flask
+pyspark
+pyhive
+pandas
+kafka-python
+flask-cors
+thrift
+thrift_sasl 
+# sasl
+# pyhive[hive]

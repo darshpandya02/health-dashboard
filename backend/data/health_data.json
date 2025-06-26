@@ -1,0 +1,6 @@
+[
+    {"patient_id": 1, "age": 25, "gender": "M", "bmi": 22.5, "smoker": "no", "region": "southwest", "charges": 3000.0},
+    {"patient_id": 2, "age": 40, "gender": "F", "bmi": 29.8, "smoker": "yes", "region": "northeast", "charges": 15000.0},
+    {"patient_id": 3, "age": 35, "gender": "M", "bmi": 31.2, "smoker": "no", "region": "northwest", "charges": 7000.0}
+  ]
+  
